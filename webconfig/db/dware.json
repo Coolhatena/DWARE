@@ -1,0 +1,304 @@
+{
+  "users": [
+    {
+      "id": "b99c",
+      "name": "Eduardo Rivera Yifua",
+      "age": "21"
+    },
+    {
+      "id": "1053",
+      "name": "Zunni",
+      "age": "27"
+    }
+  ],
+  "current": [
+    {
+      "id": "ad1d",
+      "userID": "b99c"
+    }
+  ],
+  "incidents": [
+    {
+      "id": "c04a",
+      "userID": "1053",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "b0d3",
+      "userID": "1053",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "44c3",
+      "userID": "1053",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "7fdb",
+      "userID": "1053",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "a060",
+      "userID": "1053",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "7113",
+      "userID": "1053",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "b9d7",
+      "userID": "1053",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "a94a",
+      "userID": "1053",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "5ec9",
+      "userID": "1053",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "8f9a",
+      "userID": "1053",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "8455",
+      "userID": "1053",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "2127",
+      "userID": "1053",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "b505",
+      "userID": "1053",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "4774",
+      "userID": "1053",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "88d5",
+      "userID": "1053",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "5231",
+      "userID": "b99c",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "be22",
+      "userID": "b99c",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "3a73",
+      "userID": "b99c",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "d73d",
+      "userID": "b99c",
+      "date": "09/05/2024 11:18:20",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "b4a7",
+      "userID": "b99c",
+      "date": "09/05/2024 11:18:21",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "e74a",
+      "userID": "b99c",
+      "date": "09/05/2024 11:18:21",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "2547",
+      "userID": "b99c",
+      "date": "09/05/2024 11:18:21",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "81a4",
+      "userID": "b99c",
+      "date": "09/05/2024 11:18:25",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "1575",
+      "userID": "b99c",
+      "date": "09/05/2024 11:18:25",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "2bea",
+      "userID": "b99c",
+      "date": "09/05/2024 11:18:31",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "294b",
+      "userID": "b99c",
+      "date": "09/05/2024 11:18:34",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "341e",
+      "userID": "b99c",
+      "date": "09/05/2024 11:18:35",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "7d37",
+      "userID": "b99c",
+      "date": "09/05/2024 11:19:34",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "edff",
+      "userID": "b99c",
+      "date": "09/05/2024 11:19:34",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "de07",
+      "userID": "b99c",
+      "date": "09/05/2024 11:19:35",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "0a55",
+      "userID": "b99c",
+      "date": "09/05/2024 11:19:35",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "b10c",
+      "userID": "b99c",
+      "date": "09/05/2024 11:19:37",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "ab05",
+      "userID": "b99c",
+      "date": "09/05/2024 11:19:37",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "0b82",
+      "userID": "b99c",
+      "date": "09/05/2024 11:19:38",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "92c2",
+      "userID": "b99c",
+      "date": "09/05/2024 11:19:41",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "8688",
+      "userID": "b99c",
+      "date": "09/05/2024 11:19:41",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "8f76",
+      "userID": "b99c",
+      "date": "09/05/2024 11:19:42",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "7b6d",
+      "userID": "b99c",
+      "date": "09/05/2024 11:19:45",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "7b2e",
+      "userID": "b99c",
+      "date": "09/05/2024 11:19:52",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "c04a",
+      "userID": "b99c",
+      "date": "09/05/2024 11:19:53",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "a610",
+      "userID": "b99c",
+      "date": "09/05/2024 11:19:53",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "679b",
+      "userID": "b99c",
+      "date": "09/05/2024 11:19:54",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "846b",
+      "userID": "b99c",
+      "date": "09/05/2024 11:19:55",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "347e",
+      "userID": "b99c",
+      "date": "09/05/2024 11:19:56",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "3191",
+      "userID": "b99c",
+      "date": "09/05/2024 11:21:19",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "58e2",
+      "userID": "b99c",
+      "date": "09/05/2024 11:22:24",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "b7b6",
+      "userID": "b99c",
+      "date": "09/05/2024 11:22:39",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "7db1",
+      "userID": "b99c",
+      "date": "09/05/2024 11:22:46",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "b8c1",
+      "userID": "b99c",
+      "date": "09/05/2024 11:22:56",
+      "description": "Signos de cansancio"
+    },
+    {
+      "id": "72f6",
+      "userID": "b99c",
+      "date": "09/05/2024 11:24:10",
+      "description": "Signos de cansancio"
+    }
+  ]
+}
