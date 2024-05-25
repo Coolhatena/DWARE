@@ -296,7 +296,7 @@ with map_face_mesh.FaceMesh(min_detection_confidence=0.5, min_tracking_confidenc
                 utils.colorBackgroundText(
                     frame,  f'Ratio : {round(ratio,2)}', FONTS, 0.7, (30, 100), 2, utils.PINK, utils.YELLOW)
 
-                if ratio > 3.7:
+                if ratio > 4:
                     print(f'is_eyes_closed_actual: {is_eyes_closed_actual}')
                     print(f'is_eyes_closed_last_frame: {is_eyes_closed_last_frame}')
                     CEF_COUNTER += 1
